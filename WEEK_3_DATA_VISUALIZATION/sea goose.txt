@@ -1,0 +1,421 @@
+Class	ITIS TSN	Scientific name	Common name	Rank	#records
+Mammalia	180633	Arctocephalus australis	South American Fur Seal	Species	11
+Mammalia	180631	Arctocephalus forsteri	Australasian fur seal	Species	12
+Mammalia	180634	Arctocephalus galapagoensis	Galpagos fur seal	Species	106
+Mammalia	180630	Arctocephalus gazella	Antarctic Fur Seal	Species	25504
+Mammalia	180635	Arctocephalus philippii	Juan Fernndez Fur Seal	Species	1
+Mammalia	180629	Arctocephalus pusillus	Brown Fur Seal	Species	364
+Mammalia	180636	Arctocephalus townsendi	Guadalupe Fur Seal	Species	59
+Mammalia	180632	Arctocephalus tropicalis	Amsterdam fur seal	Species	77
+Mammalia	180533	Balaena mysticetus	Bowhead	Species	11153
+Mammalia	180524	Balaenoptera acutorostrata	Common Minke Whale	Species	252683
+Mammalia	612592	Balaenoptera bonaerensis	Antarctic Minke Whale	Species	479
+Mammalia	180526	Balaenoptera borealis	Sei Whale	Species	7273
+Mammalia	612597	Balaenoptera brydei	Bryde's whale	Species	1997
+Mammalia	180525	Balaenoptera edeni	Eden's whale	Species	856
+Mammalia	180528	Balaenoptera musculus	Blue Whale	Species	16858
+Mammalia	612605	Balaenoptera musculus brevicauda	Pygmy blue whale	Subspecies	499
+Mammalia	770889	Balaenoptera omurai	Omurai's Whale	Species	16
+Mammalia	180527	Balaenoptera physalus	Fin Whale	Species	93490
+Mammalia	180495	Berardius arnuxii	Arnoux's Beaked Whale	Species	32
+Mammalia	180496	Berardius bairdii	Baird's Beaked Whale	Species	209
+Mammalia	180627	Callorhinus ursinus	Northern Fur Seal	Species	2707
+Mammalia	180535	Caperea marginata	Pygmy Right Whale	Species	27
+Mammalia	180449	Cephalorhynchus commersonii	Commerson's Dolphin	Species	142
+Mammalia	180450	Cephalorhynchus eutropia	Black Dolphin	Species	6
+Mammalia	180451	Cephalorhynchus heavisidii	Haviside's Dolphin	Species	63
+Mammalia	180452	Cephalorhynchus hectori	Hector's Dolphin	Species	46
+Mammalia	180657	Cystophora cristata	Hooded Seal	Species	348
+Mammalia	180483	Delphinapterus leucas	Beluga	Species	5180
+Mammalia	555654	Delphinus capensis	Long-beaked Common Dolphin	Species	602
+Mammalia	771147	Delphinus capensis tropicalis	Indo-Pacific common dolphin	Subspecies	10
+Mammalia	180438	Delphinus delphis	Short-beaked Common Dolphin	Species	65175
+Mammalia	771137	Delphinus delphis ponticus	Black Sea Common Dolphin	Subspecies	1408
+Mammalia	180679	Dugong dugon	Dugong	Species	6533
+Mammalia	180547	Enhydra lutris	Sea Otter	Species	2102
+Mammalia	622038	Enhydra lutris kenyoni	northern sea otter	Subspecies	312
+Mammalia	202390	Enhydra lutris nereis	California sea otter	Subspecies	28
+Mammalia	180655	Erignathus barbatus	Bearded Seal	Species	4863
+Mammalia	180521	Eschrichtius robustus	Gray Whale	Species	24142
+Mammalia	552771	Eubalaena australis	Southern Right Whale	Species	15910
+Mammalia	180537	Eubalaena glacialis	North Atlantic Right Whale	Species	11505
+Mammalia	612591	Eubalaena japonica	North Pacific Right Whale	Species	2004
+Mammalia	180625	Eumetopias jubatus	Steller Sea Lion	Species	887
+Mammalia	180461	Feresa attenuata	Pygmy Killer Whale	Species	234
+Mammalia	180466	Globicephala macrorhynchus	Short-finned Pilot Whale	Species	3816
+Mammalia	552461	Globicephala melas	Long-finned Pilot Whale	Species	10051
+Mammalia	612615	Globicephala melas edwardii	Southern Longfinned Pilot Whale	Subspecies	7
+Mammalia	180457	Grampus griseus	Risso's Dolphin	Species	13921
+Mammalia	180653	Halichoerus grypus	Atlantic gray seal	Species	231110
+Mammalia	622021	Histriophoca fasciata	Ribbon Seal	Species	6
+Mammalia	180667	Hydrurga leptonyx	Leopard seal	Species	1528
+Mammalia	180504	Hyperoodon ampullatus	Northern bottlenose whale	Species	4489
+Mammalia	180505	Hyperoodon planifrons	Southern Bottlenose Whale	Species	75
+Mammalia	180502	Indopacetus pacificus	Longman's Beaked Whale	Species	39
+Mammalia	180407	Inia geoffrensis	Amazon River Dolphin	Species	3
+Mammalia	180491	Kogia breviceps	Pygmy Sperm Whale	Species	289
+Mammalia	180492	Kogia sima	Dwarf Sperm Whale	Species	904
+Mammalia	180440	Lagenodelphis hosei	Fraser's Dolphin	Species	146
+Mammalia	180443	Lagenorhynchus acutus	Atlantic White-sided Dolphin	Species	9091
+Mammalia	180442	Lagenorhynchus albirostris	White-beaked Dolphin	Species	4739
+Mammalia	180446	Lagenorhynchus australis	Peale's Dolphin	Species	166
+Mammalia	180447	Lagenorhynchus cruciger	Hourglass Dolphin	Species	109
+Mammalia	180444	Lagenorhynchus obliquidens	Pacific White-sided Dolphin	Species	3542
+Mammalia	180445	Lagenorhynchus obscurus	Dusky Dolphin	Species	188
+Mammalia	180669	Leptonychotes weddellii	Weddell Seal	Species	28033
+Mammalia	180454	Lissodelphis borealis	Northern Right Whale Dolphin	Species	844
+Mammalia	180455	Lissodelphis peronii	Southern Right Whale Dolphin	Species	35
+Mammalia	622023	Lobodon carcinophaga	Crabeater Seal	Species	39
+Mammalia	180530	Megaptera novaeangliae	Humpback Whale	Species	265248
+Mammalia	180515	Mesoplodon bidens	Sowerby's Beaked Whale	Species	267
+Mammalia	180517	Mesoplodon densirostris	Blainville's Beaked Whale	Species	78938
+Mammalia	180509	Mesoplodon europaeus	Gervais' Beaked Whale	Species	103
+Mammalia	180511	Mesoplodon grayi	Gray's Beaked Whale	Species	7
+Mammalia	180507	Mesoplodon hectori	Hector's Beaked Whale	Species	1
+Mammalia	180516	Mesoplodon layardii	Layard's beaked whale	Species	33
+Mammalia	180508	Mesoplodon mirus	True's Beaked Whale	Species	29
+Mammalia	552772	Mesoplodon peruvianus	Peruvian beaked whale	Species	40
+Mammalia	180514	Mesoplodon stejnegeri	Bering Sea beaked whale	Species	1
+Mammalia	612598	Mesoplodon traversii	Spade-toothed Whale	Species	1
+Mammalia	180672	Mirounga angustirostris	Northern Elephant Seal	Species	115271
+Mammalia	180671	Mirounga leonina	Southern Elephant Seal	Species	238830
+Mammalia	180659	Monachus monachus	Mediterranean Monk Seal	Species	6
+Mammalia	180661	Monachus schauinslandi	Hawaiian Monk Seal	Species	145
+Mammalia	180660	Monachus tropicalis	Caribbean Monk Seal	Species	6
+Mammalia	180485	Monodon monoceros	Narwhal	Species	183
+Mammalia	180623	Neophoca cinerea	Australian Sealion	Species	9090
+Mammalia	180478	Neophocaena phocaenoides	Finless Porpoise	Species	41
+Mammalia	612624	Neophocaena phocaenoides asiaeorientalis	Yangtze finless porpoise	Subspecies	640
+Mammalia	180639	Odobenus rosmarus	Walrus	Species	4340
+Mammalia	180665	Ommatophoca rossii	Ross Seal	Species	1102
+Mammalia	180471	Orcaella brevirostris	Irrawaddy Dolphin	Species	67
+Mammalia	180469	Orcinus orca	Killer Whale	Species	12454
+Mammalia	180619	Otaria flavescens	South American Sealion	Species	83359
+Mammalia	622022	Pagophilus groenlandicus	Harp Seal	Species	2648
+Mammalia	180459	Peponocephala electra	Melon-headed Whale	Species	399
+Mammalia	180642	Phoca largha	Spotted Seal	Species	131
+Mammalia	180617	Phocarctos hookeri	Auckland sea lion	Species	231
+Mammalia	180649	Phoca vitulina	Harbor Seal	Species	81930
+Mammalia	180475	Phocoena dioptrica	Spectacled Porpoise	Species	1
+Mammalia	180473	Phocoena phocoena	Harbor Porpoise	Species	63826
+Mammalia	771140	Phocoena phocoena relicta	Black Sea Harbor Porpoise	Subspecies	5915
+Mammalia	180474	Phocoena sinus	Gulf of California harbor porpoise	Species	271
+Mammalia	180476	Phocoena spinipinnis	Burmeister's Porpoise	Species	1
+Mammalia	180480	Phocoenoides dalli	Dall's Porpoise	Species	6877
+Mammalia	180488	Physeter macrocephalus	Sperm Whale	Species	66212
+Mammalia	180413	Platanista gangetica	Ganges River Dolphin	Species	127
+Mammalia	180414	Platanista minor	Indus River Dolphin	Species	364
+Mammalia	180411	Pontoporia blainvillei	Franciscana	Species	2
+Mammalia	180463	Pseudorca crassidens	False Killer Whale	Species	1456
+Mammalia	622018	Pusa hispida	Ringed Seal	Species	5184
+Mammalia	180422	Sotalia fluviatilis	Gray Dolphin	Species	32
+Mammalia	770938	Sotalia guianensis		Species	676
+Mammalia	180419	Sousa chinensis	Chinese white dolphin	Species	76
+Mammalia	612594	Sousa plumbea	Indian humpback dolphin	Species	18
+Mammalia	180420	Sousa teuszii	Atlantic Humpback Dolphin	Species	4
+Mammalia	180430	Stenella attenuata	Pantropical Spotted Dolphin	Species	4280
+Mammalia	180431	Stenella attenuata graffmani	coastal spotted dolphin	Subspecies	299
+Mammalia	180435	Stenella clymene	Clymene Dolphin	Species	128
+Mammalia	180434	Stenella coeruleoalba	Striped Dolphin	Species	19018
+Mammalia	552460	Stenella frontalis	Atlantic Spotted Dolphin	Species	14388
+Mammalia	180429	Stenella longirostris	Spinner Dolphin	Species	2253
+Mammalia	771138	Stenella longirostris centroamericana		Subspecies	15
+Mammalia	612611	Stenella longirostris longirostris		Subspecies	6
+Mammalia	612612	Stenella longirostris orientalis		Subspecies	935
+Mammalia	180417	Steno bredanensis	Rough-toothed Dolphin	Species	1322
+Mammalia	180500	Tasmacetus shepherdi	Shepherd's Beaked Whale	Species	6
+Mammalia	180684	Trichechus manatus	West Indian Manatee	Species	486
+Mammalia	610165	Trichechus manatus latirostris	Florida manatee	Subspecies	29951
+Mammalia	610164	Trichechus manatus manatus	Antillean manatee	Subspecies	34
+Mammalia	612596	Tursiops aduncus	Indian Ocean bottlenose dolphin	Species	1389
+Mammalia	180426	Tursiops truncatus	Common Bottlenose Dolphin	Species	69703
+Mammalia	555666	Tursiops truncatus ponticus	Black Sea Bottlenose Dolphin	Subspecies	1958
+Mammalia	612621	Tursiops truncatus truncatus		Subspecies	136
+Mammalia	180542	Ursus maritimus	Polar Bear	Species	1375
+Mammalia	180621	Zalophus californianus	California Sea Lion	Species	22882
+Mammalia	622014	Zalophus wollebaeki	Galpagos sea lion	Species	63
+Mammalia	180498	Ziphius cavirostris	Cuvier's Beaked Whale	Species	2021
+Aves	177019	Aethia cristatella	Crested Auklet	Species	1049
+Aves	554029	Aethia psittacula	Parakeet Auklet	Species	272
+Aves	177020	Aethia pusilla	Least Auklet	Species	826
+Aves	177021	Aethia pygmaea	Whiskered Auklet	Species	32
+Aves	176971	Alca torda	Razorbill	Species	65058
+Aves	176982	Alle alle	Dovekie	Species	13912
+Aves	176941	Anous stolidus	Brown Noddy	Species	390
+Aves	176943	Anous tenuirostris	Sooty Noddy	Species	822
+Aves	723250	Aphrodroma brevirostris	Kerguelen Petrel	Species	436
+Aves	174449	Aptenodytes forsteri	Emperor Penguin	Species	20825
+Aves	174450	Aptenodytes patagonicus	King Penguin	Species	126949
+Aves	176998	Brachyramphus brevirostris	Kittlitz's Murrelet	Species	40
+Aves	176996	Brachyramphus marmoratus	Marbled Murrelet	Species	2528
+Aves	554144	Bulweria bulwerii	Bulwer's Petrel	Species	353
+Aves	174617	Bulweria fallax	Jouanin's Petrel	Species	15
+Aves	203446	Calonectris diomedea	Cory's Shearwater	Species	5613
+Aves	203448	Calonectris diomedea borealis		Subspecies	35124
+Aves	723253	Calonectris edwardsii	Cape Verde Shearwater	Species	2
+Aves	203449	Calonectris leucomelas	Streaked Shearwater	Species	60
+Aves	176994	Cepphus carbo	Spectacled Guillemot	Species	98
+Aves	176991	Cepphus columba	Pigeon Guillemot	Species	11196
+Aves	176985	Cepphus grylle	Black Guillemot	Species	5717
+Aves	177023	Cerorhinca monocerata	Rhinoceros Auklet	Species	6329
+Aves	726051	Chlidonias hybrida	Whiskered Tern	Species	5115
+Aves	176958	Chlidonias leucopterus	White-winged Tern	Species	4451
+Aves	176959	Chlidonias niger	Black Tern	Species	5991
+Aves	824039	Chroicocephalus novaehollandiae	Silver Gull	Species	11
+Aves	824040	Chroicocephalus philadelphia	Bonaparte's Gull	Species	39407
+Aves	824041	Chroicocephalus ridibundus	Common Black-headed Gull	Species	3220
+Aves	174534	Daption capense	Cape Petrel	Species	17367
+Aves	174524	Diomedea epomophora	Royal Albatross	Species	1232
+Aves	174525	Diomedea exulans	Wandering Albatross	Species	28211
+Aves	559996	Eudyptes chrysocome	Rockhopper Penguin	Species	193
+Aves	174452	Eudyptes chrysolophus	Macaroni Penguin	Species	41562
+Aves	174454	Eudyptes pachyrhynchus	Fiordland Penguin	Species	73
+Aves	559997	Eudyptes robustus	Snares Penguin	Species	28
+Aves	559998	Eudyptes schlegeli	Royal Penguin	Species	151
+Aves	174455	Eudyptes sclateri	Erect-crested Penguin	Species	42
+Aves	174460	Eudyptula minor	Fairy Penguin	Species	38698
+Aves	177025	Fratercula arctica	Atlantic Puffin	Species	56382
+Aves	177032	Fratercula cirrhata	Tufted Puffin	Species	1547
+Aves	177029	Fratercula corniculata	Horned Puffin	Species	858
+Aves	174767	Fregata andrewsi	Christmas Frigatebird	Species	16
+Aves	174769	Fregata ariel	Lesser Frigatebird	Species	139
+Aves	174763	Fregata magnificens	Magnificent Frigatebird	Species	74602
+Aves	174766	Fregata minor	Great Frigatebird	Species	105
+Aves	174656	Fregetta grallaria	White-bellied Storm Petrel	Species	140
+Aves	174655	Fregetta tropica	Black-bellied Storm Petrel	Species	2630
+Aves	174536	Fulmarus glacialis	Northern Fulmar	Species	408748
+Aves	174540	Fulmarus glacialoides	Southern Fulmar	Species	10772
+Aves	174658	Garrodia nereis	Grey-backed Storm Petrel	Species	950
+Aves	176882	Gelochelidon nilotica	Gull-billed Tern	Species	2426
+Aves	176954	Gygis alba	Angel Tern	Species	1481
+Aves	824735	Gygis alba microrhyncha		Subspecies	11178
+Aves	174597	Halobaena caerulea	Blue Petrel	Species	7956
+Aves	174663	Hydrobates pelagicus	European Storm Petrel	Species	16452
+Aves	824065	Hydrocoloeus minutus	Little Gull	Species	7837
+Aves	176935	Hydroprogne caspia	Caspian Tern	Species	8229
+Aves	824066	Ichthyaetus audouinii	Audouin's Gull	Species	117
+Aves	824067	Ichthyaetus hemprichii	Sooty Gull	Species	2
+Aves	824070	Ichthyaetus melanocephalus	Mediterranean Gull	Species	1133
+Aves	176824	Larus argentatus	Herring Gull	Species	125355
+Aves	176827	Larus argentatus argentatus		Subspecies	6
+Aves	554270	Larus cachinnans	Yellow-legged Gull	Species	11922
+Aves	176829	Larus californicus	California Gull	Species	11550
+Aves	176832	Larus canus	Mew Gull	Species	30178
+Aves	176831	Larus crassirostris	Black-tailed Gull	Species	12
+Aves	176830	Larus delawarensis	Ring-billed Gull	Species	1931
+Aves	176849	Larus dominicanus	Kelp Gull	Species	18953
+Aves	176821	Larus fuscus	Lesser Black-backed Gull	Species	38004
+Aves	176823	Larus fuscus fuscus		Subspecies	65
+Aves	176822	Larus fuscus graellsii		Subspecies	169
+Aves	176814	Larus glaucescens	Glaucous-winged Gull	Species	38413
+Aves	176811	Larus glaucoides	Iceland Gull	Species	73
+Aves	176812	Larus glaucoides glaucoides		Subspecies	2338
+Aves	176813	Larus glaucoides kumlieni		Subspecies	241
+Aves	176841	Larus heermanni	Heermann's Gull	Species	3054
+Aves	176808	Larus hyperboreus	Glaucous Gull	Species	4883
+Aves	176880	Larus livens	Yellow-footed Gull	Species	2
+Aves	176815	Larus marinus	Great Black-backed Gull	Species	72269
+Aves	824076	Larus michahellis	Yellow-legged Gull	Species	28193
+Aves	824802	Larus michahellis atlantis		Subspecies	4488
+Aves	176817	Larus occidentalis	Western Gull	Species	27916
+Aves	176861	Larus pacificus	Pacific Gull	Species	3966
+Aves	176816	Larus schistisagus	Slaty-backed Gull	Species	247
+Aves	176828	Larus thayeri	Thayer's Gull	Species	278
+Aves	824004	Leucocarbo albiventer		Species	8
+Aves	824003	Leucocarbo atriceps	Imperial Shag	Species	35
+Aves	824233	Leucocarbo atriceps bransfieldensis	Antarctic Shag	Subspecies	5
+Aves	824079	Leucophaeus atricilla	Laughing Gull	Species	6099
+Aves	824082	Leucophaeus pipixcan	Franklin's Gull	Species	14
+Aves	174594	Macronectes giganteus	Southern Giant Petrel	Species	9589
+Aves	174595	Macronectes halli	Northern Giant Petrel	Species	4552
+Aves	174457	Megadyptes antipodes	Yellow-eyed Penguin	Species	101
+Aves	175165	Melanitta fusca deglandi		Subspecies	1
+Aves	174712	Morus bassanus	Northern Gannet	Species	237983
+Aves	561225	Morus serrator	Australasian Gannet	Species	5068
+Aves	174661	Nesofregetta fuliginosa	Polynesian Storm Petrel	Species	1
+Aves	174650	Oceanites oceanicus	Wilson's Storm Petrel	Species	18096
+Aves	174636	Oceanodroma castro	Band-rumped Storm Petrel	Species	212
+Aves	174625	Oceanodroma furcata	Fork-tailed Storm Petrel	Species	4041
+Aves	174634	Oceanodroma homochroa	Ashy Storm Petrel	Species	434
+Aves	174628	Oceanodroma leucorhoa	Leach's Storm Petrel	Species	15472
+Aves	174640	Oceanodroma melania	Black Storm Petrel	Species	748
+Aves	174646	Oceanodroma microsoma	Least Storm Petrel	Species	130
+Aves	174642	Oceanodroma monorhis	Swinhoe's Storm Petrel	Species	10
+Aves	174638	Oceanodroma tethys	Wedge-rumped Storm Petrel	Species	147
+Aves	824104	Onychoprion anaethetus	Bridled Tern	Species	1214
+Aves	824105	Onychoprion fuscatus	Sooty Tern	Species	2072
+Aves	174599	Pachyptila belcheri	Slender-billed Prion	Species	1475
+Aves	174600	Pachyptila desolata	Antarctic Prion	Species	3585
+Aves	174605	Pachyptila salvini	Salvin's Prion	Species	2335
+Aves	174602	Pachyptila turtur	Fairy Prion	Species	4087
+Aves	174603	Pachyptila vittata	Broad-billed Prion	Species	236
+Aves	174614	Pagodroma nivea	Snow Petrel	Species	27960
+Aves	176851	Pagophila eburnea	Ivory Gull	Species	1305
+Aves	561804	Papasula abbotti	Abbott's Booby	Species	18
+Aves	174621	Pelagodroma marina	White-faced Storm Petrel	Species	1016
+Aves	174667	Pelecanoides georgicus	South Georgia Diving Petrel	Species	63
+Aves	174669	Pelecanoides urinatrix	Common Diving Petrel	Species	2560
+Aves	174691	Pelecanus conspicillatus	Australian Pelican	Species	8777
+Aves	174684	Pelecanus erythrorhynchos	American White Pelican	Species	9
+Aves	174685	Pelecanus occidentalis	Brown Pelican	Species	5357
+Aves	174693	Pelecanus onocrotalus	Great White Pelican	Species	2734
+Aves	174695	Pelecanus rufescens	Pink-backed Pelican	Species	8
+Aves	174673	Phaethon aethereus	Red-billed Tropicbird	Species	20449
+Aves	174676	Phaethon lepturus	White-tailed Tropicbird	Species	2709
+Aves	174679	Phaethon rubricauda	Red-tailed Tropicbird	Species	578
+Aves	176948	Phaetusa simplex	Large-billed Tern	Species	147
+Aves	174733	Phalacrocorax aristotelis	European Shag	Species	12344
+Aves	174717	Phalacrocorax auritus	Double-crested Cormorant	Species	9710
+Aves	554375	Phalacrocorax brasilianus	Neotropic Cormorant	Species	101
+Aves	824220	Phalacrocorax brasilianus brasilianus		Subspecies	65
+Aves	174737	Phalacrocorax capensis	Cape Cormorant	Species	4849
+Aves	174738	Phalacrocorax capillatus	Japanese Cormorant	Species	32
+Aves	174715	Phalacrocorax carbo	Great Cormorant	Species	8002
+Aves	174742	Phalacrocorax fuscescens	Black-faced Cormorant	Species	551
+Aves	174745	Phalacrocorax magellanicus	Rock Shag	Species	1
+Aves	174747	Phalacrocorax neglectus	Bank Cormorant	Species	1301
+Aves	174725	Phalacrocorax pelagicus	Pelagic Cormorant	Species	2002
+Aves	174724	Phalacrocorax penicillatus	Brandt's Cormorant	Species	2162
+Aves	174750	Phalacrocorax punctatus	Spotted Shag	Species	98
+Aves	174751	Phalacrocorax sulcirostris	Little Black Cormorant	Species	8220
+Aves	174728	Phalacrocorax urile	Red-faced Cormorant	Species	11584
+Aves	174752	Phalacrocorax varius	Australian Pied Cormorant	Species	3911
+Aves	554377	Phoebastria albatrus	Short-tailed Albatross	Species	1610
+Aves	554378	Phoebastria immutabilis	Laysan Albatross	Species	32499
+Aves	562021	Phoebastria irrorata	Waved Albatross	Species	457
+Aves	554379	Phoebastria nigripes	Black-footed Albatross	Species	22968
+Aves	174530	Phoebetria fusca	Sooty Albatross	Species	532
+Aves	174531	Phoebetria palpebrata	Light-mantled Albatross	Species	10641
+Aves	174610	Procellaria aequinoctialis	White-chinned Petrel	Species	16484
+Aves	562470	Procellaria cinerea	Pediunker	Species	1556
+Aves	174611	Procellaria parkinsoni	Black Petrel	Species	554
+Aves	174612	Procellaria westlandica	Westland Petrel	Species	512
+Aves	554390	Procelsterna cerulea	Blue Noddy	Species	131
+Aves	562519	Pseudobulweria aterrima	Mascarene Petrel	Species	14
+Aves	562522	Pseudobulweria rostrata	Tahiti Petrel	Species	2
+Aves	174570	Pterodroma arminjoniana	Herald Petrel	Species	92
+Aves	174584	Pterodroma baraui	Barau's Petrel	Species	108
+Aves	554394	Pterodroma cervicalis	White-necked Petrel	Species	1
+Aves	554395	Pterodroma cookii	Cook's Petrel	Species	1283
+Aves	174574	Pterodroma externa	Juan Fernandez Petrel	Species	12
+Aves	174567	Pterodroma hasitata	Black-capped Petrel	Species	344
+Aves	174586	Pterodroma incerta	Atlantic Petrel	Species	53
+Aves	174569	Pterodroma inexpectata	Mottled Petrel	Species	2202
+Aves	174587	Pterodroma lessonii	White-headed Petrel	Species	6658
+Aves	174588	Pterodroma leucoptera	Gould's Petrel	Species	1115
+Aves	174582	Pterodroma longirostris	Stejneger's Petrel	Species	19
+Aves	174589	Pterodroma macroptera	Great-winged Petrel	Species	2113
+Aves	562558	Pterodroma madeira	Zino's Petrel	Species	1
+Aves	174590	Pterodroma mollis	Soft-plumaged Petrel	Species	1867
+Aves	174573	Pterodroma neglecta	Kermadec Petrel	Species	44
+Aves	174580	Pterodroma nigripennis	Black-winged Petrel	Species	471
+Aves	174578	Pterodroma phaeopygia	Galapagos Petrel	Species	2
+Aves	562561	Pterodroma sandwichensis	Hawaiian Petrel	Species	3
+Aves	174581	Pterodroma solandri	Providence Petrel	Species	371
+Aves	174592	Pterodroma ultima	Murphy's Petrel	Species	114
+Aves	177013	Ptychoramphus aleuticus	Cassin's Auklet	Species	14139
+Aves	174559	Puffinus assimilis	Little Shearwater	Species	563
+Aves	174558	Puffinus auricularis	Manx	Species	1
+Aves	824117	Puffinus baroli	Barolo Shearwater	Species	64
+Aves	174552	Puffinus bulleri	Buller's Shearwater	Species	1958
+Aves	174548	Puffinus carneipes	Flesh-footed Shearwater	Species	1548
+Aves	174547	Puffinus creatopus	Pink-footed Shearwater	Species	5330
+Aves	562596	Puffinus gavia	Fluttering Shearwater	Species	979
+Aves	174549	Puffinus gravis	Great Shearwater	Species	74442
+Aves	174553	Puffinus griseus	Sooty Shearwater	Species	37573
+Aves	562597	Puffinus huttoni	Hutton's Shearwater	Species	243
+Aves	174561	Puffinus lherminieri	Audubon's Shearwater	Species	1700
+Aves	723254	Puffinus mauretanicus	Balearic Shearwater	Species	803
+Aves	554396	Puffinus opisthomelas	Black-vented Shearwater	Species	1089
+Aves	174550	Puffinus pacificus	Wedge-tailed Shearwater	Species	971
+Aves	174555	Puffinus puffinus	Manx Shearwater	Species	36850
+Aves	174554	Puffinus tenuirostris	Short-tailed Shearwater	Species	22057
+Aves	562599	Puffinus yelkouan	Yelkouan Shearwater	Species	588
+Aves	174445	Pygoscelis adeliae	Adelie Penguin	Species	92076
+Aves	723249	Pygoscelis antarcticus	Chinstrap Penguin	Species	1217
+Aves	174447	Pygoscelis papua	Gentoo Penguin	Species	393
+Aves	176864	Rhodostethia rosea	Ross's Gull	Species	2
+Aves	176845	Rissa brevirostris	Red-legged Kittiwake	Species	56
+Aves	176875	Rissa tridactyla	Black-legged Kittiwake	Species	188146
+Aves	554447	Rynchops niger	Black Skimmer	Species	258
+Aves	174462	Spheniscus demersus	Jackass Penguin	Species	584
+Aves	174464	Spheniscus magellanicus	Magellanic Penguin	Species	24
+Aves	660061	Stercorarius antarcticus	Subantarctic Skua	Species	171
+Aves	660065	Stercorarius antarcticus lonnbergi		Subspecies	80
+Aves	176794	Stercorarius longicaudus	Long-tailed Jaeger	Species	1414
+Aves	660062	Stercorarius maccormicki	South Polar Skua	Species	1635
+Aves	176793	Stercorarius parasiticus	Parasitic Jaeger	Species	5602
+Aves	176792	Stercorarius pomarinus	Pomarine Jaeger	Species	5970
+Aves	660059	Stercorarius skua	Great Skua	Species	18445
+Aves	176899	Sterna albifrons	Little Tern	Species	22
+Aves	176891	Sterna dougallii	Roseate Tern	Species	1184
+Aves	176887	Sterna forsteri	Forster's Tern	Species	2637
+Aves	176888	Sterna hirundo	Common Tern	Species	20128
+Aves	176922	Sterna maxima	Royal Tern	Species	8
+Aves	176890	Sterna paradisaea	Arctic Tern	Species	10762
+Aves	176914	Sterna repressa	White-cheeked Tern	Species	29
+Aves	176917	Sterna sumatrana	Black-naped Tern	Species	785
+Aves	176919	Sterna virgata	Kerguelen Tern	Species	11
+Aves	176920	Sterna vittata	Antarctic Tern	Species	2053
+Aves	824126	Sternula albifrons	Little Tern	Species	3031
+Aves	824127	Sternula antillarum	Least Tern	Species	277
+Aves	824132	Sternula superciliaris	Yellow-billed Tern	Species	82
+Aves	174699	Sula dactylatra	Masked Booby	Species	27184
+Aves	174704	Sula leucogaster	Brown Booby	Species	151507
+Aves	174702	Sula nebouxii	Blue-footed Booby	Species	9
+Aves	174707	Sula sula	Red-footed Booby	Species	3774
+Aves	174710	Sula variegata	Peruvian Booby	Species	299903
+Aves	177008	Synthliboramphus antiquus	Ancient Murrelet	Species	689
+Aves	177010	Synthliboramphus craveri	Craveri's Murrelet	Species	41
+Aves	177011	Synthliboramphus hypoleucus	Xantus's Murrelet	Species	402
+Aves	563380	Thalassarche bulleri	Buller's Albatross	Species	1
+Aves	554451	Thalassarche cauta	Shy Albatross	Species	2958
+Aves	554452	Thalassarche chlororhynchos	Yellow-nosed Albatross	Species	1937
+Aves	563381	Thalassarche chrysostoma	Grey-headed Albatross	Species	29895
+Aves	554453	Thalassarche melanophris	Black-browed Albatross	Species	39680
+Aves	824139	Thalasseus bengalensis	Lesser Crested Tern	Species	62
+Aves	824140	Thalasseus bergii	Swift Tern	Species	30
+Aves	176931	Thalasseus elegans	Elegant Tern	Species	397
+Aves	824142	Thalasseus maximus	Royal Tern	Species	1047
+Aves	176932	Thalasseus sandvicensis	Sandwich Tern	Species	2580
+Aves	174608	Thalassoica antarctica	Antarctic Petrel	Species	13238
+Aves	176974	Uria aalge	Common Murre	Species	243414
+Aves	176978	Uria lomvia	Thick-billed Murre	Species	7170
+Aves	176866	Xema sabini	Sabine's Gull	Species	1126
+Reptilia	173830	Caretta caretta	Loggerhead Sea Turtle	Species	452800
+Reptilia	173833	Chelonia mydas	Green Sea Turtle	Species	236739
+Reptilia	173843	Dermochelys coriacea	Leatherback Sea Turtle	Species	56382
+Reptilia	173836	Eretmochelys imbricata	Hawksbill Sea Turtle	Species	250429
+Reptilia	551770	Lepidochelys kempii	Kemp's Ridley	Species	40484
+Reptilia	173840	Lepidochelys olivacea	Olive Ridley	Species	55602
+Reptilia	949133	Natator depressus	Flatback Sea Turtle	Species	46150
+Chondrichthyes	160978	Aetobatus narinari	spotted eagle ray	Species	1308
+Chondrichthyes	159916	Alopias vulpinus	thresher shark	Species	814
+Chondrichthyes	160310	Carcharhinus falciformis	silky shark	Species	3821
+Chondrichthyes	160275	Carcharhinus leucas	bull shark	Species	68035
+Chondrichthyes	160330	Carcharhinus longimanus	oceanic whitetip shark	Species	1674
+Chondrichthyes	160268	Carcharhinus obscurus	dusky shark	Species	3988
+Chondrichthyes	160289	Carcharhinus plumbeus	sandbar shark	Species	31
+Chondrichthyes	159903	Carcharodon carcharias	Great white shark	Species	595
+Chondrichthyes	159907	Cetorhinus maximus	basking shark	Species	9514
+Chondrichthyes	160951	Dasyatis americana	southern stingray	Species	49
+Chondrichthyes	160954	Dasyatis say	bluntnose stingray	Species	1
+Chondrichthyes	160189	Galeocerdo cuvier	tiger shark	Species	21896
+Chondrichthyes	160181	Galeorhinus galeus	tope	Species	37259
+Chondrichthyes	159977	Ginglymostoma cirratum	nurse shark	Species	855
+Chondrichthyes	564380	Himantura schmardae	Chupare stingray	Species	76
+Chondrichthyes	159924	Isurus oxyrinchus	shortfin mako	Species	8208
+Chondrichthyes	159910	Lamna ditropis	salmon shark	Species	1076
+Chondrichthyes	159911	Lamna nasus	porbeagle	Species	490
+Chondrichthyes	160992	Manta birostris	Atlantic manta	Species	1595
+Chondrichthyes	160999	Mobula mobular	giant devil ray	Species	701
+Chondrichthyes	160983	Myliobatis aquila	spotted eagle ray	Species	1065
+Chondrichthyes	160981	Myliobatis californica	bat ray	Species	34
+Chondrichthyes	621086	Narcine bancroftii	lesser electric ray	Species	9
+Chondrichthyes	160433	Negaprion brevirostris	lemon shark	Species	41
+Chondrichthyes	160424	Prionace glauca	blue shark	Species	38352
+Chondrichthyes	159857	Rhincodon typus	whale shark	Species	20355
+Chondrichthyes	160985	Rhinoptera bonasus	cownose ray	Species	32900
+Chondrichthyes	160515	Sphyrna mokarran	great hammerhead	Species	2669
+Chondrichthyes	160505	Sphyrna zygaena	smooth hammerhead	Species	799
+Chondrichthyes	621035	Urobatis jamaicensis	yellow stingray	Species	877
