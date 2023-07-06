@@ -1,2 +1,2 @@
 # ArewaDS-Machine-Learning-Assignments
-Arewa Data Science Machine Learning exercises
+This repository contains the Arewa Data Science Machine Learning exercises conducted during the Arewa Data Science Fellow programme.
